@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sintony&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sintony&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: poppins;
+    background-color: #e1807d;
+    background: url(/assets/img/Digital-eucation-9\ 1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo-img img {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 52px;
+    top: 55px;
+}
+
+.herosection p {
+    position: absolute;
+    width: 469px;
+    height: 192px;
+    left: 52px;
+    top: 95px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 80px;
+    line-height: 85px;
+    color: #000000;
+}
+
+.herosection-2 p {
+    position: absolute;
+    width: 348px;
+    height: 153px;
+    left: 56px;
+    top: 325px;
+    font-family: 'Sintony';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 52px;
+    display: flex;
+    align-items: center;
+    color: #6B6262;
+}
+
+.button-r button {
+    position: absolute;
+    width: 261px;
+    height: 88px;
+    left: 52px;
+    top: 620px;
+    background: #B9A0FA;
+    border-radius: 10px;
+    border: 0px;
+
+}
+
+.button-r button a {
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 10px 10px 10px 10px;
+}
+
+.button-s button {
+    position: absolute;
+    width: 201px;
+    height: 66px;
+    left: 1200px;
+    top: 57px;
+    background: #B9A0FA;
+    border-radius: 10px;
+    border: 0px;
+}
+
+.button-s button a {
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    align-items: center;
+    text-align: center;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+#page-2 .head-1 {
+    position: absolute;
+    width: 100%;
+    height: max-content;
+    top: 829px;
+    background-color: #fddbda;
+    font-family: 'Sintony';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 55px;
+    display: flex;
+    align-items: center;
+    columns: #ddd;
+}
+
+
+#page-2 .head-1 h5 {
+    margin-left: 250px;
+}
+
+#page-2 .head-1 img {
+    width: 350px;
+    height: max-content;
+    margin-top: 50px;
+    margin-left: 250px;
+}
+
+#page-2 .head-2 {
+    position: absolute;
+    width: 100%;
+    height: max-content;
+    top: 1150px;
+    background-color: #fddbda;
+    font-family: 'Sintony';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 55px;
+    display: flex;
+    align-items: center;
+    columns: #ddd;
+}
+
+#page-2 .head-2 h5 {
+    margin-left: 250px;
+}
+
+#page-2 .head-2 img {
+    width: 350px;
+    height: max-content;
+    margin-top: 50px;
+    margin-left: 240px;
+}
+
+#abt .info-abt {
+    position: absolute;
+    width: 100%;
+    height: max-content;
+    top: 1480px;
+    background-color: #fddbda;
+    font-family: 'Sintony';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 35px;
+    display: inline-flex;
+    align-items: center;
+    columns: #ddd;
+}
+
+#abt .info-abt h5 {
+    margin-top: 150px;
+    margin-left: 250px;
+}
+
+#abt .img-3 img {
+    width: 350px;
+    height: max-content;
+    margin-top: 150px;
+    margin-left: 250px;
+}
